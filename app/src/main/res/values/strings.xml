@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Diet Count</string>
+    <string name="title_name">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Date&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Lunch&#160;&#160;&#160;Dinner</string>
+    <string name="channel_name">Primary Channel</string>
+    <string name="channel_description">The content</string>
+
+</resources>
